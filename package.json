@@ -1,0 +1,31 @@
+{
+  "name": "employeetracker_sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamestpatmore/EmployeeTracker_SQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamestpatmore/EmployeeTracker_SQL/issues"
+  },
+  "homepage": "https://github.com/jamestpatmore/EmployeeTracker_SQL#readme",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.3"
+  }
+}
