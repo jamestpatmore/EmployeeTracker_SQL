@@ -10,7 +10,7 @@
 ## Description 
 A node.js/strictCLI application :crystal_ball: that uses inquirer to populate an employee database :books:
 
-For the video walkthrough explaining the functionality of the application go [here]() :clapper:
+For the video walkthrough explaining the functionality of the application go [here](https://drive.google.com/file/d/1qGd0N8XXBwMreUL5fl-6w2orSzu_xoji/view) :clapper:
 
 ## User Story 
 
